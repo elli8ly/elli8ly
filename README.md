@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Elliot!</h1>
+<h1 align="center">hey, i'm elliot!</h1>
 <h3 align="center">Data Analyst and Developer passionate about turning data into useful tools and insights</h3>
 
 - I’m currently learning **AWS Cloud, Apache Spark, and advanced data engineering workflows**
