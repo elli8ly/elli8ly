@@ -1,9 +1,9 @@
 <h1 align="center">hey, i'm elliot!</h1>
-<h3 align="center">Data Professional | Turning Information into Impact</h3>
+<h3 align="center">Data Professional | Analytics • Engineering • Development</h3>
 
-I'm Elliot, a data professional who bridges analytics, engineering, and development to solve real-world problems. With a background in Statistics and Data Science from UC Santa Barbara, I work across the full data lifecycle—from designing databases and cleaning datasets to building predictive models and creating interactive dashboards.
+I'm Elliot, a data professional who works across the full data lifecycle—from analysis and modeling to database design and application development. With a background in Statistics and Data Science from UC Santa Barbara, I build practical solutions that turn raw data into actionable insights and functional tools.
 
-Whether it's uncovering patterns in messy data, building scalable data systems, or developing tools that make insights accessible, I focus on creating solutions that are both technically sound and practically useful. I'm comfortable working with Python, R, and SQL, and I enjoy the challenge of translating complex data into clear, actionable recommendations.
+I work with Python, R, SQL, and modern development frameworks, and I'm currently learning AWS, Spark, and Databricks to expand into cloud-scale data engineering.
 
 
 <h3 align="left">Languages and Tools:</h3>
